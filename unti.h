@@ -4,11 +4,14 @@
            do { perror(msg); exit(EXIT_FAILURE); } while (0)
 void print();
 
+
 void transform();
 void change();
 void transform() {
   return 0;
 }
+
+
 
 
 #endif
